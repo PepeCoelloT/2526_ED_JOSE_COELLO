@@ -1,0 +1,5 @@
+C:\Users\jose_\OneDrive\Documentos\GitHub\2526_ED_JOSE_COELLO\obj\Debug\net10.0\2526_ED_JOSE_COELLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose_\OneDrive\Documentos\GitHub\2526_ED_JOSE_COELLO\obj\Debug\net10.0\2526_ED_JOSE_COELLO.AssemblyInfoInputs.cache
+C:\Users\jose_\OneDrive\Documentos\GitHub\2526_ED_JOSE_COELLO\obj\Debug\net10.0\2526_ED_JOSE_COELLO.AssemblyInfo.cs
+C:\Users\jose_\OneDrive\Documentos\GitHub\2526_ED_JOSE_COELLO\obj\Debug\net10.0\2526_ED_JOSE_COELLO.csproj.CoreCompileInputs.cache
+C:\Users\jose_\OneDrive\Documentos\GitHub\2526_ED_JOSE_COELLO\obj\Debug\net10.0\2526_ED_JOSE_COELLO.sourcelink.json
